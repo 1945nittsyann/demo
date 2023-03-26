@@ -1,0 +1,12 @@
+      #canvas {
+        width: 800px;
+        height: 600px;
+        touch-action: none;
+      }
+      #START {
+        position: absolute;
+        left: 200px;
+        top: 200px;
+      }
+      p {font-size:9pt; font-weight:plain; font-family:UD デジタル 教科書体 N-B; }
+      h1 {font-size:30pt; font-weight:bold; font-family:UD デジタル 教科書体 N-B; color: blue; }
